@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58112953840",
+    "project_id": "charmxhealth",
+    "storage_bucket": "charmxhealth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58112953840:android:e86747a90f8ec007e22135",
+        "android_client_info": {
+          "package_name": "com.example.charmxhealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKKFjVWeiY1ISu14pWUOA1wxezCvR9HIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
